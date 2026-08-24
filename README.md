@@ -1,4 +1,4 @@
 # new project
 
-This project was created from local
-Created by AmarSingh 
+This project was created from local system.
+Created by Amar Singh 
